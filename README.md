@@ -1,2 +1,2 @@
 # Ai First Project
-Frist ai project with sklearn 
+First ai project with sklearn 
